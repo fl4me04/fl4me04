@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Fl4me 👋
 
+I am a Computer Science student at Bina Nusantara University for now.
+
+## Little fact about me 😁 :
+- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/-TypeScript-303030?style=flat&logo=typescript)
+- ✌️ My Favorite Hobby for now is playing music and doing some projects to learn code languages
 <!--
 **fl4me04/fl4me04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
