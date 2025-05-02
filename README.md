@@ -32,13 +32,7 @@ I am a Computer Science student at Bina Nusantara University for now.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
-
-## 💫 My Interests
-- ⚙️ Automation
-- 🎭 Orchestration
-- 📊 Monitoring
-- 🛠️ Custom Tooling
-
+  
 </div>
 
 [linkedin]: https://www.linkedin.com/in/shemjl
