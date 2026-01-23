@@ -1,40 +1,57 @@
-## Hi, I'm Fl4me 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Fl4me&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20@%20Binus%20University&descAlignY=55&descAlign=50" alt="Header" />
+</div>
 
-I am a Computer Science student at Bina Nusantara University for now.
+<br />
 
-## Little facts about me 😁 :
-- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/-TypeScript-303030?style=flat&logo=typescript)
-- ✌️ My Favorite Hobby for now is playing music and doing some projects to learn programming languages
-- 👨‍💻 Programming Languages that i used :
-<div align="left">
-  
-![C](https://img.shields.io/badge/-C-303030?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-303030?style=flat&logo=cplusplus)
-![CSS](https://img.shields.io/badge/-CSS3-303030?style=flat&logo=css3&logoColor=1572B6)
-![Go](https://img.shields.io/badge/-Go-303030?style=flat&logo=go&logoColor=00ADD8)
-![HTML5](https://img.shields.io/badge/-HTML5-303030?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-303030?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-303030?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-303030?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-303030?style=flat&logo=typescript)
+### 👨‍💻 About Me
+
+I am a passionate **Computer Science Student** at **Bina Nusantara University**. I have a strong interest in software engineering and I am currently focused on expanding my skill set in full-stack development.
+
+- 💡 I love building projects to explore new programming languages and solve real-world problems.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### **Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### **Web Technologies**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### **Databases**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-- 💾 Database that i used :
-<div align="left">
+---
 
-![MySQL](https://img.shields.io/badge/-MySQL-303030?style=flat&logo=mysql&logoColor=FFFFFF)
+### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fl4me04&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl4me04&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
 </div>
 
+---
 
-- 📫 You can reach me via :
-<div align="left">
+### 📫 Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
-  
+<div align="center">
+  <a href="https://www.linkedin.com/in/shemjl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/shemjl_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
 </div>
-
-[linkedin]: https://www.linkedin.com/in/shemjl
-[instagram]: https://instagram.com/shemjl_
